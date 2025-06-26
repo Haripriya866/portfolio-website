@@ -14,9 +14,9 @@ Link: https://portfolio-website-ivory-seven-68.vercel.app
 
 ## Tech Stack
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 Bootstrap
  
 ## Setup Instructions
